@@ -74,14 +74,14 @@
 			position: relative;
 		}
 		footer{
-          display: inline-block;
-          width: 46%;
-          height: 20%;
-          margin-left: 215px;
-          margin-top: 2px;
-		  bottom: 10px;
-		  position: absolute;
-		  border:1px solid;
+            display: inline-block;
+            width: 46%;
+            height: 20%;
+            margin-left: 215px;
+            margin-top: 2px;
+		    bottom: 10px;
+		    position: absolute;
+		    border:1px solid;
 
 		}
 		#izquierda{
